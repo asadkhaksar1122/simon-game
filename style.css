@@ -9,6 +9,25 @@ html {
 .level{
   text-align: center;
 }
+.count{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#start{
+  padding: 10px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  border-radius: 10px;
+  height: 50px;
+  width: 100px;
+  color: #000;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
 .btn{
   padding: 10px;
   margin: 10px;
